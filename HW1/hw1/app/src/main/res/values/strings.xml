@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="_2nd_activity">2nd Activity</string>
+    <string name="main_activity_count">Main Activity Count:</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="clear_count">Clear Count</string>
+</resources>
